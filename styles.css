@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.container {
+    display: inline-block;
+    text-align: center;
+    border: 2px solid #000;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #f0f0f0;
+}
+
+button {
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 20px 0;
+    cursor: pointer;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 18px;
+}
