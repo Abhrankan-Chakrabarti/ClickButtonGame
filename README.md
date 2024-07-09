@@ -22,7 +22,7 @@ A simple, fun web game where players click a button as many times as possible wi
    ```bash
    git clone https://github.com/Abhrankan-Chakrabarti/ClickButtonGame.git
    ```
-2. Open index.html in your web browser to start playing.
+2. Open `index.html` in your web browser to start playing.
 
 ## Play Online
 You can play the game online [here](https://abhrankan-chakrabarti.github.io/ClickButtonGame/).
